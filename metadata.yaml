@@ -1,0 +1,37 @@
+_repo: King-Horn-Floriz-and-Blauncheflur-The-Assumption-of-Our-Lady_42713
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  editors:
+  - agent_name: Lumby, J. Rawson (Joseph Rawson)
+    alias: Lumby, Joseph Rawson
+    birthdate: 1831
+    deathdate: 1895
+    gutenberg_agent_id: '41609'
+    url: http://www.gutenberg.org/2009/agents/41609
+    wikipedia: http://en.wikipedia.org/wiki/Joseph_Rawson_Lumby
+  - agent_name: McKnight, George Harley
+    alias: McKnight, George H.
+    birthdate: 1871
+    deathdate: 1951
+    gutenberg_agent_id: '41832'
+    url: http://www.gutenberg.org/2009/agents/41832
+description: ''
+gutenberg_bookshelf: Early English Text Society
+gutenberg_issued: '2013-05-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42713'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Romances, English'
+- !lcsh 'English poetry -- Middle English, 1100-1500'
+- !lcc 'PR'
+- !lcsh 'Mary, Blessed Virgin, Saint -- Legends'
+title: King Horn, Floriz and Blauncheflur, The Assumption of Our Lady
+url: http://www.gutenberg.org/ebooks/42713
