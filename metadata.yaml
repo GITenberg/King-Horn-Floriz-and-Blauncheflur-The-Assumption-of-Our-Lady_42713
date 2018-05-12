@@ -19,6 +19,8 @@ creator:
     gutenberg_agent_id: '41832'
     url: http://www.gutenberg.org/2009/agents/41832
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42713#King-Horn-Floriz-and-Blauncheflur-The-Assumption-of-Our-Lady
 gutenberg_bookshelf: Early English Text Society
 gutenberg_issued: '2013-05-15'
 gutenberg_type: Text
